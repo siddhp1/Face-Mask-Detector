@@ -1,3 +1,9 @@
+# Dataset (too large to push to Github)
+dataset
+
+# Model (too large to push to Github)
+*.model
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
