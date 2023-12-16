@@ -2,7 +2,7 @@
 dataset
 
 # Model (too large to push to Github)
-*.model
+# *.model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
