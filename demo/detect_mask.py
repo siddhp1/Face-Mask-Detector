@@ -36,7 +36,7 @@ def main():
     # Load the pre-trained Haar Cascade face detector
     face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
     # Load the face mask detector model
-    maskNet = load_model("mask_detector.model")
+    maskNet = load_model("../model/mask_detector.model")
 
     # Start the video capture, using system default camera
     vs = cv2.VideoCapture(0)
