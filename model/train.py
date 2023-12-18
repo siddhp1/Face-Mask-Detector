@@ -18,8 +18,8 @@ IMG_HEIGHT = 224
 TEST_SIZE = 0.2
 
 # Dataset directory information
-DIRECTORY = "dataset"
-CATEGORIES = ["with_mask", "without_mask"]
+DIRECTORY = "archive"
+CATEGORIES = ["with_mask 1/with_mask 1", "without_mask/without_mask"]
 
 def load_data():
     data = []  # For loaded image data (in array form)
