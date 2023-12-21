@@ -1,6 +1,6 @@
 # Face-Mask-Detector
 
-A face mask detector that identifies whether a person is wearing a face mask or not. Built using Tensorflow 2.7 in Python 3.7. 
+A face mask detector that identifies whether a person is wearing a face mask or not. Built using Tensorflow 2.7 in Python 3.7 for a high school (grade 10) business project.
 
 ## Table of Contents
 
