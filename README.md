@@ -1,6 +1,6 @@
 # Face-Mask-Detector
 
-A face mask detector that identifies whether a person is wearing a face mask or not. Built using Tensorflow 2.7 in Python 3.7 for a high school (grade 10) business project.
+A face mask detector for verifying that a person is wearing a face mask correctly (over mouth and nose). Has two categories: “with mask” and “without mask”. Classification is done with a convolutional neural network, made with Tensorflow Keras. Demo GUI uses OpenCV and the HaarCascade Frontal Face model to apply the face mask model to camera input. Features a data augmentation engine and MatPlotLib training visualization.
 
 ## Table of Contents
 
